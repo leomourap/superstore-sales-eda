@@ -22,7 +22,7 @@
   - datetime
   - plotly.graph_objects
 
-*--------------------------------------------------------------------------------------------------------------------------------------------------------------*
+*---------------------------------------------------------------------------------------------------------------------------------*
 #### I started treating null values, creating new data features and removing undesired data.
 
 So, moving on to the analysis itself...
@@ -52,7 +52,7 @@ So, moving on to the analysis itself...
     ![output_48_0](https://user-images.githubusercontent.com/105673165/185572413-88e9b7e3-667e-471a-919d-298e4f9493d1.png)
     ![output_50_0](https://user-images.githubusercontent.com/105673165/185572428-e254ce0c-050a-4ff8-b932-4eb3b70d7b31.png)
 
-*--------------------------------------------------------------------------------------------------------------------------------------------------------------*
+*---------------------------------------------------------------------------------------------------------------------------------*
 
 ## Next steps:
 ### Since we already answered these questions, our work here would be finished. But we can go further and build a time series model to forecast the sales in the future. That model would use the sales behavior in the observed data, like trend and seasonality, to predict the behavior of this variable in an upcoming period. But this will be for another time.
