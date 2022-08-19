@@ -6,7 +6,7 @@
     *It's a dataset with 9800 sales records over 4 years.
 
 ## This is my first data science project - an Exploratory Data Analysis & data Visualization.
-  *Please, to check an ideal notebook, i recommend you to open the repository link in NBViewer(https://nbviewer.org/), 
+  *Please, to check an ideal notebook, i recommend you to open the repository link in NBViewer (https://nbviewer.org/), 
   since i implemented a interactive Plotly chart in this notebook - does not work ideally with GitHub.
   
 
