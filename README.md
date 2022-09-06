@@ -7,7 +7,7 @@
 
 ## This is my first data science project - an Exploratory Data Analysis & data Visualization.
   *Please, to check an ideal notebook, i recommend you to open the repository link in NBViewer (https://nbviewer.org/), 
-  since i implemented a interactive Plotly chart in this notebook - does not work ideally with GitHub.
+  since i implemented an interactive Plotly chart in this notebook - does not work ideally with GitHub.
   
 
 ### We have some questions to guide our exploration:
