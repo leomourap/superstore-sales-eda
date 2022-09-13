@@ -55,4 +55,4 @@ So, moving on to the analysis itself...
 *---------------------------------------------------------------------------------------------------------------------------------*
 
 ## Next steps:
-### Since we already answered these questions, our work here would be finished. But we can go further and build a time series model to forecast the sales in the future. That model would use the sales behavior in the observed data, like trend and seasonality, to predict the behavior of this variable in an upcoming period. But this will be for another time.
+### Since we already answered these questions, our work here would be finished. But we can go further and build a model to forecast the sales in the future. That model would use the sales behavior in the observed data, like trend and seasonality, to predict the behavior of this variable in an upcoming period. But this will be for another time.
